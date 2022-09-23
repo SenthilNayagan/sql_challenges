@@ -1,6 +1,6 @@
---DDLs
+--DDLs for tutorial database.
 
--- Create a database called tutorial
+-- Create a database called tutorial.
 CREATE DATABASE tutorial
     WITH
     OWNER = postgres
